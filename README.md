@@ -2,6 +2,8 @@
 
 Turns an LG webOS TV on when a Mac wakes, and off when it locks or sleeps.
 
+I've only tested this against an LG NANO80 series TV but if it has webOS I think it'll work.
+
 Macs can't send HDMI-CEC, so this uses a direct Ethernet cable to the TV instead.
 
 ## Physical setup
