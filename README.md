@@ -8,8 +8,10 @@ Macs can't send HDMI-CEC, so this uses a direct Ethernet cable to the TV instead
 
 ```
 Mac --HDMI--> TV
-Mac --USB Ethernet adapter--cable--> TV LAN port
+Mac --Ethernet--> TV LAN port
 ```
+
+Connect your TV via ethernet directly to the mac (I did it this way instead of over Wifi because I never want my TV to access the internet)
 
 No router needed.
 
